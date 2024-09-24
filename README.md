@@ -18,19 +18,19 @@ If you know assembly every software is open source. - A wise person
 
 <hr>
 
-# Hi 👋 , I am Lalit Kumar Badhotiya! Great to see you here!
+# Hi 👋 , I am Manav Narang! Great to see you here!
 
 <a href="https://github.com/Lalit-Kumar-Badhotiya/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=50&color=41FF00&width=435&lines=Hi%F0%9F%91%8B%2C+I+am+Lalit!;I+Like+To+Learn+New+Technologies.;I+Like+To+Explore+New+Tech.;I+Love+Coding++%E2%9D%A4.;Let's+Connect."></a>
 
 </p>
-I am Lalit Kumar Badhotiya, currently pursuing my Bachelor of Computer Applications (BCA) degree from [GLA UNIVERSITY, MATHURA] . I am a tech enthusiast & an open-source advocate. I am always open to collaborate on projects and innovative/disruptive ideas.
+I am Manav Narang, currently pursuing my Bachelor of Computer Applications (BCA) degree from [GLA UNIVERSITY, MATHURA] . I am a tech enthusiast & an open-source advocate. I am always open to collaborate on projects and innovative/disruptive ideas.
 <br>
 
 - 🔭 I’m currently working on _Web Development_.
 - 🌱 I’m currently learning _Data Structures and Algorithms_.
 - 👯 I’m looking to collaborate on _Python/Java_.
 - 🚀 I'm Interested in making _IOT Projects_.
-- 📫 How to reach me **lalitkumar.ac105@gmail.com**.
+- 📫 How to reach me **manav.narang007@gmail.com**.
 - ⚡ Fun fact **The Version Control System Git was created in 5 Days**.
 - 💬 Ask me about _CS_.
 
